@@ -1,0 +1,28 @@
+*{
+  margin:0%;
+  padding:0%;
+}
+
+.main{
+  background:#22343C;
+  width:100%; 
+  height:100vh;
+  position:fixed;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.secondary{
+  background:#30444E;
+   width:319px;
+   height:773px;
+   display:flex;
+   flex-direction:column;
+   align-items:center;
+   border-radius:25px;
+   margin-top:20px;
+   margin-bottom:20px;
+}
+
+

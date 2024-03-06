@@ -1,0 +1,48 @@
+.primary{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    box-shadow: 0px 2px 4px rgba(15, 218, 137, 0.3);
+    background: linear-gradient(180deg, #40DF9F 0%, #3ED598 100%);
+    border-radius: 12px!important;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF!important;
+}
+
+.icon-button{
+    min-width:35px!important;
+    height:38px;
+}
+
+.minus-symbol{
+    color: #3DD598!important;
+    border-radius: 50%!important;
+    border: 1px solid #3DD598!important;
+    box-sizing: border-box!important;
+}
+
+.add-symbol{
+    background-color: #3DD598!important;
+    border-radius: 50%!important;
+    color:#30444E!important;
+    box-sizing: border-box!important;
+}
+
+.add-symbol span{
+    margin-left: 0px;
+    margin-right: 0px;
+    pointer-events: none;
+}
+
+.minus-symbol span{
+    margin-left: 0px;
+    margin-right: 0px;
+    pointer-events: none;
+}

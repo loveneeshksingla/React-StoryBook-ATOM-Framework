@@ -1,0 +1,22 @@
+.default-properties-input{
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background:#1F2E35!important;
+    color:#96A7AF!important;
+    font-size: 16px; 
+}
+
+.primaryInp{
+    border-radius: 12px;
+    height:48px;
+    padding: 0 12px 0 12px;
+}
+
+.secondaryInp{
+    border-radius: 8px;
+    height:35.38px;
+    width:44.36px
+}
+

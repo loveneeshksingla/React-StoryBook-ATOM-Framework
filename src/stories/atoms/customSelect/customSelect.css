@@ -1,0 +1,28 @@
+.default-properties-box{
+    width: 118px;
+    height: 48px;
+    background-color:#286053;
+    overflow: hidden;
+    border-radius: 12px;
+    box-sizing: border-box;
+}
+
+
+.default-properties-select{
+   width: 100%;
+   height: 50px;
+}
+
+.default-properties-select svg{
+    color:#3DD598;
+    Width :40px;
+    Height :35px;
+    Top :5px;
+    Left :75px;
+}
+
+/* overriding the materail ui css */
+.css-6hp17o-MuiList-root-MuiMenu-list{
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
+}

@@ -1,0 +1,42 @@
+.user-info-card{
+    width:303.61px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #96A7AF;
+    height:289px;
+}
+
+.name-info{
+    width: 279px;
+}
+
+.name-info #name-title{
+    margin-left: 7px;
+    margin-bottom: 10px;
+}
+
+.phone-info-primary{
+    height: 77px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.phone-info-secondary{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 280px;
+    height:48px;
+}
+
+.email-info{
+    width:281px;
+    height: 96px;
+}
+
+.email-info #email-title{
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
